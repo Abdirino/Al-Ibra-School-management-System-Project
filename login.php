@@ -167,10 +167,26 @@ if ($_SESSION['authlevel'] > 0) {
                 color: #8F7CEC;
                 text-decoration: none;
             }
+            .head{
+                display: flex;
+                justify-content: center;
+                align-items: center;
+                padding-top: 40px;
+            }
+            .head h1{
+                border-bottom: 2px solid #8F7CEC;
+                box-shadow: 0 0 15px rgba(143, 124, 236, 0.7);
+                padding: 10px;
+                border-radius: 5px;
+                color: #CBBDDB;
+            }
         </style>
     </head>
 
     <body>
+        <div class="head">
+            <h1>AL-IBRA SCHOOL MANAGEMENT SYSTEM</h1>
+        </div>
         <div class="login-box">
             <h2>Login</h2>
             <form action="<?php htmlspecialchars($_SERVER['PHP_SELF']) ?>" method="post" autocomplete="off">
