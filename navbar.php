@@ -12,7 +12,62 @@
     <div class="slider">
         <div class="logo">
             <img src="—Pngtree—beautiful cool cartoon cute students_3598172.png" alt="school Logo">
-            <h1>AL-IBRA SCHOOL</h1>
+            <h3>AL-IBRA SCHOOL</h3>
+
+            <nav>
+                <div class="nav-title">Management</div>
+
+                <ul>
+                    <li class="nav-item">
+                        <a href="#">
+                            <i class='bx bxs-dashboard'></i>
+                            Dashboard
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#">
+                            <i class='bx bxs-user-pin'></i>
+                            Staff
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#">
+                            <i class='bx bxs-user'></i>
+                            Users
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#">
+                            <i class='bx bxs-message-dots'></i>
+                            Enquiries
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#">
+                            <i class='bx bxs-registered'></i>
+                            Registration
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#">
+                            <i class='bx bxl-invision'></i>
+                            Invoice
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#">
+                            <i class='bx bxs-receipt'></i>
+                            Receipt
+                        </a>
+                    </li>
+                    <li class="nav-item">
+                        <a href="#">
+                            <i class='bx bx-log-out'></i>
+                            Logout
+                        </a>
+                    </li>
+                </ul>
+            </nav>
         </div>
     </div>
 </body>
